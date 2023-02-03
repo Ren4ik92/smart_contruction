@@ -46,6 +46,9 @@ INSTALLED_APPS = [
     'main',
     'about.apps.AboutConfig',
     'users',
+    'services',
+    'projects',
+    'vacancies',
 ]
 
 MIDDLEWARE = [
